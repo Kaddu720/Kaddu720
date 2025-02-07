@@ -11,3 +11,5 @@ Currently, I’m diving deeper into Kubernetes and its ecosystem, with plans to 
 Outside of cloud tech, I enjoy powerlifting, building custom computers, and collecting mechanical watches—hobbies that let me blend my technical mindset with a love for craftsmanship and precision.
 
 If you want to collaborate or enquire about cloud consulting, feel free to reach out to me at nwilson@ekiree.tech
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ac4b5658-2578-43f3-bd25-11e385cbe0cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
